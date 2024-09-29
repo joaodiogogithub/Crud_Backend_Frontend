@@ -5,7 +5,7 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `python, docker, docker-compose, react.js`
-- Você tem uma máquina `<Windows / Linux`. Indique qual sistema operacional é compatível / não compatível.
+- Você tem uma máquina `<Windows / Linux>`. Indique qual sistema operacional é compatível / não compatível.
 - É fortemente recomendavel que seja usada uma maquina linux, ou um ambiente virtual.
 
 ## 🚀 Instalando a aplicação.
@@ -40,11 +40,3 @@ Entre no seu navegador e acesse o:
 localhost/
 ```
 
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
